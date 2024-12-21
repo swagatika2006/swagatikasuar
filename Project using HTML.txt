@@ -1,0 +1,44 @@
+NAME :- SWAGATIKA SUAR	
+BRANCH :- CS
+ROLL :-  51
+MAIL :- SUARSWAGATIKA85@GMAIL.COM
+
+
+Project using HTML
+---------------------
+Technology: HTML
+IDE/Editor :VS CODE
+For developing a project there are 10 steps.
+
+1. Define the project scope.
+---> Clearly outline the purpose and goals of your project . Determine what you want to achieve and identify your target audience.
+	Purpose/scope AND goal for today's project:
+	------------------------------------------- 
+	---> To complete the entire concepts of HTML.
+	---> TO design our professional portfolio.
+	---> To design a responsive project using HTML to make our resume strong.
+	---> Efficiency for clearing technical interview round.
+
+2. Plan your project structure. 
+BR
+---> Map out the structure of your project, Detailing the web pages you need and how they will interconnect.
+ Structuring our website:
+-------------------------
+	Section 1: HOME
+	Section 2: About 
+	Section 3: Education
+	Section 4: Skills
+	Section 5: Project
+	Section 6: Achievements
+	Section 7: Contact me
+
+3. Design the layout. 
+4. Write the HTML code.
+5. Add some styling.
+6. Make your project responsive.
+7. Optimize for accessibility.
+8. Test your project.
+9. Deploy your project.
+10. collect feedback.
+
+ 
